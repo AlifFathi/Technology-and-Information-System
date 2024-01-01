@@ -1,6 +1,6 @@
 # TECHNOLOGY AND INFORMATION SYSTEM
 
-# PORTFOLIO
+# EPORTFOLIO
 
 Assignment 1: Poster for career talk by PPG
 
